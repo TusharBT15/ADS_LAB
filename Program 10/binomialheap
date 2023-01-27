@@ -75,12 +75,8 @@ class BinomialHeapNode {
 	}
 }
 class BinomialHeap {
-
-	// Member variables of this class
 	private BinomialHeapNode Nodes;
 	private int size;
-
-	// Constructor of this class
 	public BinomialHeap()
 	{
 		Nodes = null;
